@@ -1,0 +1,7 @@
+__pxcache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
+*.html
+extracted_data/
+uci_machine_learning_repo/
